@@ -1,0 +1,13 @@
+[en]
+SCOUTS_MENU_TITLE = HitAndRun Scouts
+SCOUTS_MENU_WELCOME =  Scouts Menu!
+SCOUTS_MENU_URCASH = Your cash:
+SCOUTS_MENU_URLVL = Your Level:
+SCOUTS_MENU_CURRENT = Current
+SCOUTS_MENU_OWNED = Owned
+SCOUTS_MENU_CASH = Cash
+SCOUTS_MENU_LEVEL = Level
+SCOUTS_MENU_VIP = VIP
+MSG_BUY_SUCCESS = You have bought ^4%s^1 for ^4%d^3 cash.
+MSG_DEF_SCOUT = You have changed your scout skin to the default.
+MSG_CHOOSEN_SCOUT = You have changed your scout skin to ^4%s^1.

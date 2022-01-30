@@ -1,0 +1,21 @@
+[en]
+ERR_MUST_BE_ALIVE = You must be ^4alive^1 to make an alliance!
+ERR_MUST_BE_ALIVE_SEND = Can't send an ^3alliance^1 with this player - You both must be ^4alive^1!
+ERR_MUST_BE_ALIVE_ACCEPT = Can't accept an ^3alliance^1 with this player - You both must be ^4alive^1!
+ERR_GAME_END = You ^3can't^1 make an alliance when the game already ended!
+ERR_NOT_ENOUGHT_PLR = You ^3can't^1 make an alliance when there are less then 3 humans alive!
+ERR_PLG_DISABLED = Plugin is ^3disabled^1!
+ERR_GAME_NOT_RUNNING = The game must be ^3running^1 to make an alliance!
+AL_MENU_TITLE = HitAndRun Alliance
+AL_MENU_CHOOSE_PLR = Choose a player to do alliance with:
+AL_MENU_PLR_REQ = Player %s requested to make an alliance with you.
+AL_MENU_DOYOUWANT = Do you want?
+AL_MENU_CHOOSE_TIME = You have %d seconds!
+AL_MENU_ITEM_YES = Yes
+AL_MENU_ITEM_NO = No
+MSG_ALL_TIMEOUT_PLR = You have ^3falied^1 to accept an alliance with ^4%s^1.
+MSG_ALL_TIMEOUT_INVITER = Player ^4%s^1 had ^3falied^1 to accept an alliance with you.
+MSG_ALL_SUCCESS = ^4You^1 and ^3%s^1 are in an alliance. ^4Good Luck!
+MSG_ALL_REFUSE_INVITER = ^4%s^1 ^3didn't accept^1 the alliance, such a shame.
+MSG_ALL_REFUSE_SENDER = You have refused to accept ^4%s^1's alliance request.
+MSG_ALL_CLEANUP = All alliances have been ^4removed^1, only^3 2 humans^1 are alive at this point. ^3GOOD LUCK!

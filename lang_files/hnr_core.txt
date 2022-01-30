@@ -1,0 +1,13 @@
+[en]
+GAME_WILL_START_CHAT = ^3Game will start in^4 10 seconds^1!
+GAME_WILL_START_DHUD = Game will start in %d seconds!
+NOT_ENOUGHT_PLAYERS = Need at least^4 2 players^1 to start the game! Retry in ^3%d seconds^1...
+TIMER_TLEFT = Time Left: %.1f Seconds!
+SICKNESS_PASS = got the sickness!
+BLOCKKILL_CHAT = You ^3can't^1 ^4kill yourself^1!
+BLOCKKILL_CONSOLE = [HNR Core] You can't kill yourself!
+SPAWN_TOO_LATE = You came to the game too late :(
+WINNER_CHAT = Congratulations! The ^3winner^1 is ^4%s^1!
+FATAL_ERROR = ^3Fatal ERROR^1. Restarting game...
+INFECTED_PLAYERS = Infected Players:
+ADV_CREDITS = This server is running ^3HyuNaS HitAndRun^1 ^4%s^1 by

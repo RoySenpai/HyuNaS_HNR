@@ -1,0 +1,13 @@
+[en]
+KNIVES_MENU_TITLE = HitAndRun Knives
+KNIVES_MENU_WELCOME =  Knives Menu!
+KNIVES_MENU_URCASH = Your cash:
+KNIVES_MENU_URLVL = Your Level:
+KNIVES_MENU_CURRENT = Current
+KNIVES_MENU_OWNED = Owned
+KNIVES_MENU_CASH = Cash
+KNIVES_MENU_LEVEL = Level
+KNIVES_MENU_VIP = VIP
+MSG_BUY_SUCCESS = You have bought ^4%s^1 for ^4%d^3 cash.
+MSG_DEF_KNIFE = You have changed your knife skin to the default.
+MSG_CHOOSEN_KNIFE = You have changed your knife skin to ^4%s^1.

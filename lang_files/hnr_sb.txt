@@ -1,0 +1,19 @@
+[en]
+MENU_PREFIX = HyuNaS HitAndRun
+MENU_TITLE = You have picked a Surprise Box. ^nDo you want to open it?
+MENU_OPT_YES = Yes
+MENU_OPT_NO = No
+MSG_NO_BOXES = There ^3aren't^1 any surprise box entites to purge.
+MSG_ADMIN_PURGE = ^4ADMIN ^3%s^1 has purged all surprise box entites.
+MSG_SERVER_PURGE = ^4Server^1 has purged all surprise box entites.
+MSG_OPT1 = You opened the box and got^4 20 cash^1.
+MSG_OPT1_ALL = ^3%s^1 opened a ^4Surprise Box^1, and got^4 20 cash^1.
+MSG_OPT2 = You opened the box and got^4 10 xp^1.
+MSG_OPT2_ALL = ^3%s^1 opened a ^4Surprise Box^1, and got^4 10 xp^1.
+MSG_OPT3 = You opened the box and got^4 5 cash^1.
+MSG_OPT3_ALL = ^3%s^1 opened a ^4Surprise Box^1, and got^4 5 cash^1.
+MSG_OPT4 = Sorry, but the box is ^3empty^1! Try next time.
+MSG_OPT4_ALL = ^3%s^1 opened a ^4Surprise Box^1, but it was ^4empty^1.
+MSG_MUST_BE_ALIVE = You must be ^4alive^1 to open a surprise box.
+MSG_DONT_OPEN = You choosed ^3not^1 to open the box. It has been ^3destroyed^1.
+MSG_WARNING = ^3WARNING:^1 Max surprise box entities reached (^4%d^1), need a purge!

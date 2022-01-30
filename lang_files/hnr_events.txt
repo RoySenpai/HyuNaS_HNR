@@ -1,0 +1,7 @@
+[en]
+EVN_CHECK_THIS_RND = ^3Random event^1 will ^4start^1 on ^3this round^1!
+EVN_CHECK_NEXT_RND = ^3Random event^1 will ^4start^1 on ^3next round^1!
+EVN_CHECK_X_RND = Next ^3random event^1 in ^4%d ^3rounds^1.
+EVN_CHECK_CURRENT = ^3Current event^1 is: ^4%s^1.
+EVN_MSG_STARTED = Special round:
+EVN_MSG_DOUBLE = Special round: ^3%s^1 bonus - You've got ^4double^3 cash ^1and ^3xp^1!
