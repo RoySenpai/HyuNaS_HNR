@@ -1038,8 +1038,6 @@ public WinnerBeam(client){
 
 public taskAdvMsg(taskid) {
 	client_print_color(0,print_team_red,"%s %L ^4HiyoriX^1.",TAG,LANG_PLAYER,"ADV_CREDITS",get_hnr_version());
-	client_print_color(0,print_team_red,"%s ^3Visit our website: ^4gamers-israel.co.il",TAG);
-	client_print_color(0,print_team_red,"%s ^3Teamspeak: ^4ts.gamers-israel.co.il",TAG);
 }
 
 MakeRandomInfection() {
